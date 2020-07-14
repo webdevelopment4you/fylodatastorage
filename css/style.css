@@ -105,6 +105,11 @@ html,body
     bottom:4px;
 }
 
+.icons
+{
+    cursor: pointer;
+}
+
 @media screen and (min-width:768px)
 {
 
@@ -182,7 +187,7 @@ html,body
         padding: 28px 35px;
         border-radius: 8px;
         position: absolute;
-        right: 47px;
+        right: 55px;
         top: -43%;
     }
 
@@ -195,7 +200,7 @@ html,body
         border-top: 30px solid white;
         border-left: 30px solid transparent;
         bottom: -30px;
-        right: 47px;
+        right: 54.9px;
         top: -1%;
     }
 
